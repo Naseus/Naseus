@@ -1,4 +1,5 @@
-### Hi there 👋
+### Software Developer at BTECH Inc
+Contact me at tdevries4i@gmail.com
 
 <!--
 **Naseus/Naseus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
